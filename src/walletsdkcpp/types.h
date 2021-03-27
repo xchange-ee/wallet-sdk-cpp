@@ -1,0 +1,4 @@
+#ifndef WALLET_SDK_CPP_TYPES_H
+#define WALLET_SDK_CPP_TYPES_H
+
+#endif
